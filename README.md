@@ -15,15 +15,11 @@
 <code><img width="40" src="https://github.com/ycarogo/ycarogo/blob/main/imgs/CSS.svg" alt="CSS"></code>
 <code><img width="40" src="https://github.com/ycarogo/ycarogo/blob/main/imgs/JS.svg" alt="Javascript"></code>
 <code><img width="40" src="https://github.com/ycarogo/ycarogo/blob/main/imgs/git.svg" alt="Git"></code>
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
-</div>
-
-<br>
-  
-## 🧠 Em progresso:
-<div>
 <code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular"/></code>
-<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" /></code>
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" /></code>
+<code><img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" /></code>
+
 </div>
 
 <br>
